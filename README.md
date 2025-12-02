@@ -12,10 +12,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 * Mateus Ferreira Farias dos Anjos
 * Erick Henrique Souza Lima da Silva
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Carneiro dos Santos
+* Carolina Dias de Moraes
+* João Pedro Amorim Santos
+* Indride Almeida dos Santos
+* Luiz Henrique Azevedo Oliveira
+* Wendell Henrique Bernardo Cerqueira
+* 
+*
 
 ## Orientador
 
