@@ -19,7 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Luiz Henrique Azevedo Oliveira
 * Wendell Henrique Bernardo Cerqueira
 * Josué Santos Silva
-*
+* Caio GUilherme Batista Jesus Vieira
 
 ## Orientador
 
